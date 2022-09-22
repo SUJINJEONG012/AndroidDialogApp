@@ -42,7 +42,5 @@
 ```
 
 
-
-
-![20220922_155726](https://user-images.githubusercontent.com/56811978/191682530-77851a9b-6fee-42f2-bd86-2f0da69b8a54.jpg)
+![20220922_163733](https://user-images.githubusercontent.com/56811978/191686743-b864e447-1417-4c13-9a1d-b190466bd0b0.jpg)
 
