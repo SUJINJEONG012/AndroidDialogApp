@@ -1,7 +1,12 @@
 # AndroidDialogApp
 
 
+
 # 코틀린 기반 안드로이드 앱 
+
+
+![20220922_163733](https://user-images.githubusercontent.com/56811978/191686743-b864e447-1417-4c13-9a1d-b190466bd0b0.jpg)
+
 
 ---
 
@@ -40,7 +45,4 @@
            },15,0,true).show()
         }
 ```
-
-
-![20220922_163733](https://user-images.githubusercontent.com/56811978/191686743-b864e447-1417-4c13-9a1d-b190466bd0b0.jpg)
 
